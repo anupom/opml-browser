@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  TuneIn01
+//  OPMLBrowser
 //
 //  Created by Anupom Syam on 12/14/13.
 //  Copyright (c) 2013 Anupom Syam. All rights reserved.

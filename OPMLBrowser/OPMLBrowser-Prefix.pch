@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'TuneIn01' target in the 'TuneIn01' project
+// Prefix header for all source files of the 'OPMLBrowser' target in the 'OPMLBrowser' project
 //
 
 #import <Availability.h>
